@@ -33,6 +33,8 @@ Bibliotecas
 
 O Developer ID Badge é um aplicativo estático com o objetivo de exibir informações do usuário trazidas da API do GitHub e inseri-las em um layout semelhante ao do evento DoWhile 2021.
 
+Conforme o cursor passa pelo badge, é reproduzida a animação feita com a biblioteca Vanilla-tilt. A mesma animação ocorre em um dispositivo móvel (smartphone ou tablet), porém, utilizando o giroscópio.
+
 Você pode visitar o badge [clicando aqui](https://darllinsonazvd.github.io/dev-id-badge/)
 
 ## 🔖 Layout
