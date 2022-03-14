@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Developer ID Badge" src=".github/preview.png" width="100%">
+  <img alt="Developer ID Badge" src=".github/preview.gif" width="100%">
 </p>
 
 ## 🚀 Tecnologias
