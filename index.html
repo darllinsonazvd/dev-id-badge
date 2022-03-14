@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Darllinson | Developer ID</title>
+
+    <!-- STYLES -->
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- FONTS -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <main>
+      <div
+        class="container"
+        data-tilt=""
+        data-tilt-glare="true"
+        data-tilt-max-glare="0.1"
+        data-tilt-speed="400"
+        data-tilt-scale="1.02"
+        data-tilt-max="10"
+        data-tilt-perspective="500"
+        style="
+          transform: perspective(500px) rotateX(0deg) rotateY(0deg)
+            scale3d(1, 1, 1);
+          will-change: transform;
+        "
+      >
+        <div class="avatar">
+          <span>
+            <img src="assets/images/build.svg" alt="Rocketseat tag" />
+          </span>
+          <img
+            id="userPhoto"
+            src="assets/images/default-user.png"
+            alt="User avatar"
+          />
+        </div>
+
+        <h1 id="userName">Username</h1>
+        <a id="userGitHub" href="#" target="_blank">
+          <img src="assets/images/github.svg" alt="github icon" />
+          <span id="usernameGitHub">github-username</span></a
+        >
+
+        <p id="userBio">User biography</p>
+
+        <ul id="socialLinks">
+          <li class="instagram">
+            <a href="#" target="_blank">
+              <img src="assets/images/instagram.svg" alt="instagram icon" />
+            </a>
+          </li>
+          <li class="twitter">
+            <a href="#" target="_blank">
+              <img src="assets/images/twitter.svg" alt="twitter icon" />
+            </a>
+          </li>
+          <li class="linkedin">
+            <a href="#" target="_blank">
+              <img src="assets/images/linkedin.svg" alt="linkedin icon" />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </main>
+
+    <!-- VanillaTilt -->
+    <script src="vanilla-tilt.js"></script>
+
+    <!-- main.js -->
+    <script src="main.js"></script>
+  </body>
+</html>
