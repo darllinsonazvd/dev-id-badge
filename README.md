@@ -31,7 +31,7 @@ Bibliotecas
 
 ## 💻 Projeto
 
-O Developer ID Badge é um aplicativo estático com o objetivo de exibir informações do usuário trazidas da API do GitHub e inseri-las em um layout semelhante ao do evento DoWhile 2021.
+O Developer ID Badge é um aplicativo estático com o objetivo de exibir informações do usuário trazidas da API do GitHub e inseri-las em um layout semelhante ao do evento DoWhile 2021. Se você é um dev, e quer um badge como esse, basta clonar o repositório e modificar as linhas 1 a 6 do [main.js](main.js) e todas suas redes sociais, nome, foto e bio serão atualizadas!
 
 Conforme o cursor passa pelo badge, é reproduzida a animação feita com a biblioteca Vanilla-tilt. A mesma animação ocorre em um dispositivo móvel (smartphone ou tablet), porém, utilizando o giroscópio.
 
