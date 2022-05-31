@@ -21,16 +21,16 @@
 </g>
 <defs>
 <radialGradient id="paint0_radial_61385_101" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(881 -137) rotate(90) scale(559)">
-<stop stop-color="#FF6400"/>
+<stop stop-color="#8800F2"/>
 <stop offset="1" stop-color="#121214" stop-opacity="0"/>
 </radialGradient>
 <radialGradient id="paint1_radial_61385_101" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(559 -137) rotate(90) scale(559)">
-<stop stop-color="#FF0100"/>
+<stop stop-color="#3B0086"/>
 <stop offset="1" stop-color="#121214" stop-opacity="0"/>
 </radialGradient>
 <linearGradient id="paint2_linear_61385_101" x1="540" y1="-344.234" x2="979.976" y2="-283.679" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FF0000"/>
-<stop offset="1" stop-color="#FBFF1E"/>
+<stop stop-color="#4D32F6"/>
+<stop offset="1" stop-color="#6704B5"/>
 </linearGradient>
 <linearGradient id="paint3_linear_61385_101" x1="631.101" y1="248.84" x2="542.185" y2="97.1039" gradientUnits="userSpaceOnUse">
 <stop stop-color="#8257E5"/>
@@ -53,8 +53,8 @@
 <stop offset="1" stop-color="#FF008E" stop-opacity="0"/>
 </linearGradient>
 <linearGradient id="paint8_linear_61385_101" x1="649.5" y1="4.93019e-08" x2="782" y2="158" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FF0100"/>
-<stop offset="1" stop-color="#FFB800"/>
+<stop stop-color="#3308AD"/>
+<stop offset="1" stop-color="#8800F2"/>
 </linearGradient>
 <clipPath id="clip0_61385_101">
 <rect width="1440" height="820" fill="white"/>
